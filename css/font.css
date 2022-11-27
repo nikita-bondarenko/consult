@@ -1,0 +1,49 @@
+@font-face {
+    font-display: swap;
+    font-weight: 700;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    src: url(../fonts/text/PlusJakartaSans-Bold.woff2) format("woff2"), url(../fonts/text/PlusJakartaSans-Bold.woff) format("woff");
+}
+
+@font-face {
+    font-display: swap;
+    font-weight: 600;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    src: url(../fonts/text/PlusJakartaSans-SemiBold.woff2) format("woff2"), url(../fonts/text/PlusJakartaSans-SemiBold.woff) format("woff");
+}
+
+@font-face {
+    font-display: swap;
+    font-weight: 500;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    src: url(../fonts/text/PlusJakartaSans-Medium.woff2) format("woff2"), url(../fonts/text/PlusJakartaSans-Medium.woff) format("woff");
+}
+
+@font-face {
+    font-display: swap;
+    font-weight: 400;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    src: url(../fonts/text/PlusJakartaSans-Regular.woff2) format("woff2"), url(../fonts/text/PlusJakartaSans-Regular.woff) format("woff");
+}
+
+@font-face {
+    font-display: swap;
+    font-weight: 600;
+    font-family: 'Inter';
+    font-style: normal;
+    src: url(../fonts/text/Inter-SemiBold.woff2) format("woff2"), url(../fonts/text/Inter-SemiBold.woff) format("woff");
+}
+
+
+@font-face {
+    font-display: swap;
+    font-weight: 400;
+    font-family: 'Inter';
+    font-style: normal;
+    src: url(../fonts/text/Inter-Regular.woff2) format("woff2"), url(../fonts/text/Inter-Regular.woff) format("woff");
+}
+
